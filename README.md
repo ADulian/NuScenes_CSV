@@ -1,1 +1,1 @@
-NuScenes objects take quite bit of time to load, and are quite heavy with respect to memory usage. This isn't ideal when running multiple experiments that only require certain data. Aim of these scripts is to save that data to .csv files
+NuScenes objects take quite bit of time to load and are quite heavy with respect to memory usage. This isn't ideal when running multiple experiments that only require certain data. Aim of these scripts is to save that data to .csv files
