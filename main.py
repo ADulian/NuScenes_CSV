@@ -1,5 +1,5 @@
 """
-Save NuScene annotation data to .csv files
+- Save NuScene annotation data to .csv files
 """
 
 from annotation_data import NuScene_Data_Creator as ann_creator
